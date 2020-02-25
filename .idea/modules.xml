@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/comframe.iml" filepath="$PROJECT_DIR$/.idea/modules/comframe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/comframe_main.iml" filepath="$PROJECT_DIR$/.idea/modules/comframe_main.iml" group="comframe" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/comframe_test.iml" filepath="$PROJECT_DIR$/.idea/modules/comframe_test.iml" group="comframe" />
+    </modules>
+  </component>
+</project>
